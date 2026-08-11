@@ -1,6 +1,6 @@
 # ANALOG-CLOCK
 # About us!
-Hi everyoen , This analog clock created by Raushan kumar.
+Hi everyoen , This analog clock was created by Raushan kumar.
 
 # About clock!
 An analog clock is a round time-telling tool that uses a face with numbers 1 through 12 and rotating hands to show the hours, minutes, and seconds.
